@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdgyGuyXD
 - 👀 I’m interested in Computer Science for Game Developing
-- 🌱 I’m currently learning Unity Engine and C#, hope to get into a university that offers a Game Programming / Game Designing Major
+- 🌱 I’m currently learning Unity Engine and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me NG: https://asianramen69.newgrounds.com/
 
