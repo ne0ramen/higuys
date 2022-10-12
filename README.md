@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science for Game Developing
 - 🌱 I’m currently learning Unity Engine and C#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me NG: https://asianramen69.newgrounds.com/
+- 📫 How to reach me 
 
 <!---
 EdgyGuyXD/EdgyGuyXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
