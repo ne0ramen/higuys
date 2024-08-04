@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Sean
-- 👀 I’m interested in Computer Science for SWE / Game Development
-- 🌱 CS Student in University
-- 💞️ I like video games and would like to make one someday
-- 📫 You can reach out to me on LinkedIn
+This is my github account majority of my files are private repositories
 
 <!---
 hi guys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
